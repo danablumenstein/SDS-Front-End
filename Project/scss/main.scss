@@ -22,6 +22,7 @@ h3 {
     margin: 0;
     font-weight: 600;
     color: set-text-color($primary-color);
+    text-align: center;
 
     &.lg-heading {
         font-size: 6rem;
@@ -31,6 +32,10 @@ h3 {
         margin-bottom: 2rem;
         padding: 0.2rem 1rem;
         background: rgba(lighten($primary-color, 2), 0.5);
+    }
+
+    &.welcome {
+        margin-bottom: 6rem;
     }
 }
 
@@ -146,8 +151,12 @@ main {
         margin-top: 0rem;
         background: rgba(lighten($primary-color, 2), 0.5);
     }
-
 }
+#myCarousel {
+    margin: 4% 15%;
+    border: 5px black solid;
+    //border: 5px $secondary-color solid;
+  }
 
 // Contact Page
 /*

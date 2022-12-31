@@ -115,7 +115,7 @@ body {
                 //background: rgba($primary-color, $background-opacity);
             }*/ }
   body#bg-img-journeys {
-    background: url(../img/backgrounds/background3.jpg);
+    background: url(../img/backgrounds/background5.jpg);
     background-attachment: fixed;
     background-size: cover; }
   body#bg-img-about {
@@ -128,7 +128,8 @@ h2,
 h3 {
   margin: 0;
   font-weight: 600;
-  color: #000; }
+  color: #000;
+  text-align: center; }
   h1.lg-heading,
   h2.lg-heading,
   h3.lg-heading {
@@ -139,6 +140,10 @@ h3 {
     margin-bottom: 2rem;
     padding: 0.2rem 1rem;
     background: rgba(255, 255, 255, 0.5); }
+  h1.welcome,
+  h2.welcome,
+  h3.welcome {
+    margin-bottom: 6rem; }
 
 a {
   color: #fff;
@@ -212,6 +217,10 @@ main {
     text-align: center;
     margin-top: 0rem;
     background: rgba(255, 255, 255, 0.5); }
+
+#myCarousel {
+  margin: 4% 15%;
+  border: 5px black solid; }
 
 /*
 .boxes {
