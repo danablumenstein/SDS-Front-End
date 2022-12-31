@@ -9,3 +9,4 @@ Link to video:
 https://seafile.zfn.uni-bremen.de/f/868a4f5434614623abaa/
 
 The example project and Learning Diary are to be found here on Github.
+Mostly commits in branch master.
