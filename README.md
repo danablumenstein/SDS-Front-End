@@ -1,5 +1,6 @@
 # Software-Development-Skills-Front-End-2022-23
 Anytime-course: Software Development Skills: Front-End 2022-23 (LUT University)
+Dana Blumenstein
 
 To enter the Website, just go to: 
 https://danablumenstein.github.io/SDS-Front-End/
