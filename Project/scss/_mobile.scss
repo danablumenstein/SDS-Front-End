@@ -24,7 +24,6 @@
         }
     }
 
-    /*
     ul.menu-nav,
     div.menu-branding {
         float: none;
@@ -55,15 +54,14 @@
 
     .about-info {
         grid-template-areas:
-        'bioimage'
         'bio'
-        'job1'
-        'job2'
-        'job3';
+        'bioimage'
+        'info1'
+        'info2'
+        'info3';
 
         grid-template-columns: 1fr;
     }
-    */
 
     .journeys {
         grid-template-columns: repeat(2, 1fr);
